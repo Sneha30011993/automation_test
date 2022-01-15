@@ -16,6 +16,7 @@ public class LaunchBrowser {
 			driver.get(string);//Call URL
 			
 			return driver;
+			
 		}
 	}
 
